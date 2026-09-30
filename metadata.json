@@ -1,0 +1,6 @@
+{
+  "name": "KRESA - Style Meets Life",
+  "description": "Premium luxury fashion and lifestyle boutique offering designer jewellery, women apparel, accessories, and artisanal home decor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
